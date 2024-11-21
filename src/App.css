@@ -1,0 +1,19 @@
+*{
+    margin: 0; 
+    padding: 0;
+    font-family:  Helvetica;
+    box-sizing: border-box;
+    text-shadow: #000 1.0px 1.0px;
+ }
+ 
+ 
+ .App{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     min-height: 100vh;
+     background-image: url("assets/tela 03.avif");
+     background-size: cover;
+     background-position: center;
+ 
+ }
