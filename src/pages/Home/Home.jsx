@@ -14,7 +14,7 @@ const Home = () => {
         <nav>
           <ul>
             <li>
-              <Link to="/Login">Sait</Link>
+              <Link to="/Login">Sair</Link>
             </li>
             <li>
               <Link to="/Config">Config</Link>
