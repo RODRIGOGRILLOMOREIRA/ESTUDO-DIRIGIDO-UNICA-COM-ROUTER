@@ -1,0 +1,8 @@
+Adicionei a versão "react-router-dom": "^5.3.4" como dependencia
+Essa versão já esta obsoleta, atualizar depois
+
+podemos melhorar a formação do código, explico melhor depois
+
+adicionar um guard para garantir que todos as requições em login sejam redicionadas para o login
+
+alert("Enviando os dados pode ser substituido por uma modal de confirmação ou por outro alerta mais bonito no futuro
