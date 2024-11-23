@@ -24,8 +24,8 @@ import './Login.css';
    alert("Enviando os dados: "+ username +" - "+ password);
    
    if (username === 'admin@admin' && password === 'password') 
-      {
-      history.push('/Home');
+    {
+        history.push('/Home');
       } else
       
    alert('Usuário ou senha incorretos');
