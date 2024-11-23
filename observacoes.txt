@@ -1,2 +1,6 @@
 Adicionei a versão "react-router-dom": "^5.3.4" como dependencia
 Essa versão já esta obsoleta, atualizar depois
+
+podemos melhorar a formação do código, explico melhor depois
+
+alert("Enviando os dados pode ser substituido por uma modal de confirmação ou por outro alerta mais bonito no futuro

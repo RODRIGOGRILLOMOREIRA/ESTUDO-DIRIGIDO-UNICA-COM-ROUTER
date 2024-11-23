@@ -23,9 +23,9 @@ import './Login.css';
    event.preventDefault();
    alert("Enviando os dados: "+ username +" - "+ password);
    
-   if (username === 'admin' && password === 'password') 
+   if (username === 'admin@admin' && password === 'password') 
       {
-      history.push('/Login');
+      history.push('/Home');
       } else
       
    alert('Usuário ou senha incorretos');
