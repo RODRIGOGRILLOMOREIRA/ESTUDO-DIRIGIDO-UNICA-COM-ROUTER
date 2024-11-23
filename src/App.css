@@ -10,7 +10,7 @@
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-image: url("assets/tela 03.avif");
+    background-image: url("assets\tela 03.avif");
     background-size: cover;
     background-position: center;
 }
